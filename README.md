@@ -1,8 +1,6 @@
-# Kubernetes for Beginners
+# Make it easy - This repository contains notes and resources for learning Kubernetes.
+Core Kubernetes concepts, runnable sample manifests, and cloud provider comparisons for learners and many more.
 
-Educational repo: core Kubernetes concepts, runnable sample manifests, and cloud provider comparisons for learners.
-
-This repository contains notes and resources for learning Kubernetes.
 
 ## Table of Contents
 
@@ -423,3 +421,7 @@ kubectl describe pvc pvc-dynamic-1
 ## Cloud Provider Comparison
 
 Moved to a dedicated document: [GKE vs AKS vs EKS](comparisons/gke-aks-eks.md) to keep this introduction concise.
+
+
+Express Your Support
+If this repo has been beneficial, show your appreciation with a ⭐
